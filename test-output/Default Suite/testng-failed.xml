@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]">
+  <test name="BigProject(failed)">
+    <classes>
+      <class name="testCase.AL_AssignLeaveTest">
+        <methods>
+          <include name="AL05_Verifyusercantassignwithnoselectedfromdate"/>
+          <include name="AL03_Verifyusercantassignleavewithinvalidemployeename"/>
+          <include name="beforeTest"/>
+          <include name="AL06_Verifyusercantassignwithnoselectedtodate"/>
+          <include name="AL07_VerifyUsershouldbeselectedtodateafterfromdate"/>
+          <include name="AL04_Verifyusercantassignwithnoselectedleavetype"/>
+          <include name="AL08_Verifyusercanbeassignleavewithvaliddata"/>
+          <include name="aftertest"/>
+        </methods>
+      </class> <!-- testCase.AL_AssignLeaveTest -->
+    </classes>
+  </test> <!-- BigProject(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

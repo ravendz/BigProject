@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="27573" started-at="2021-02-11T11:07:51Z" finished-at="2021-02-11T11:08:19Z">
+    <groups>
+    </groups>
+    <test name="BigProject" duration-ms="27573" started-at="2021-02-11T11:07:51Z" finished-at="2021-02-11T11:08:19Z">
+      <class name="testCase.AE_AddEmployeeTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testCase.AE_AddEmployeeTest@3cb5cdba]" name="beforeTest" is-config="true" duration-ms="5454" started-at="2021-02-11T18:07:51Z" finished-at="2021-02-11T18:07:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="AE15_addEmployeeValidDataNoLogindetails()[pri:0, instance:testCase.AE_AddEmployeeTest@3cb5cdba]" name="AE15_addEmployeeValidDataNoLogindetails" duration-ms="16585" started-at="2021-02-11T18:07:57Z" finished-at="2021-02-11T18:08:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AE15_addEmployeeValidDataNoLogindetails -->
+        <test-method status="PASS" signature="AE16_addemployeewithemptyfirstnamefield()[pri:0, instance:testCase.AE_AddEmployeeTest@3cb5cdba]" name="AE16_addemployeewithemptyfirstnamefield" duration-ms="866" started-at="2021-02-11T18:08:13Z" finished-at="2021-02-11T18:08:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AE16_addemployeewithemptyfirstnamefield -->
+        <test-method status="PASS" signature="AE17_addemployeewithemptylastnamefield()[pri:0, instance:testCase.AE_AddEmployeeTest@3cb5cdba]" name="AE17_addemployeewithemptylastnamefield" duration-ms="814" started-at="2021-02-11T18:08:14Z" finished-at="2021-02-11T18:08:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AE17_addemployeewithemptylastnamefield -->
+        <test-method status="PASS" signature="AE18_addemployeewithexistemployeeId()[pri:0, instance:testCase.AE_AddEmployeeTest@3cb5cdba]" name="AE18_addemployeewithexistemployeeId" duration-ms="2642" started-at="2021-02-11T18:08:15Z" finished-at="2021-02-11T18:08:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AE18_addemployeewithexistemployeeId -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:testCase.AE_AddEmployeeTest@3cb5cdba]" name="aftertest" is-config="true" duration-ms="1201" started-at="2021-02-11T18:08:17Z" finished-at="2021-02-11T18:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- testCase.AE_AddEmployeeTest -->
+    </test> <!-- BigProject -->
+  </suite> <!-- Default Suite -->
+</testng-results>
